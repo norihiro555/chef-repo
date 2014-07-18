@@ -1,0 +1,8 @@
+{
+  "run_list": [
+    "recipe[loginuser]"
+  ],
+  "automatic": {
+    "ipaddress": "10.42.1.100"
+  }
+}

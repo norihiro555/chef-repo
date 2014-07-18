@@ -1,0 +1,10 @@
+// dunban.json
+{ "id" : "norihiro",
+  "username" : "norihiro",
+  "home" : "/home/norihiro",
+  "uid" : "925",
+  "gid" : "wheel",
+  "key" : "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAu7614s0pXcM2EtsN5OzNy+fnlfHW6Ui402jgdn1vaxC7c/4qEKEuHXECko87C22DhE5wIpfFDoCMA++d1p6J3ZOWmUyhLKrbaeRgF5u0j2ZthA7lZ4bbsabRro4XfNe6HQavBznW1LMpZ7XnsX+pI9/42lwXx/O5HxgFgQDg25olcnhxuPnig85eDWPTrm4TH5xwu4P9j90lY1+Vh/sPyDllD+oRftgSi76ojSmG4PNkpz8HOV9oOXD76dD1BmteLTrRl/4dtnTQeY1sQtTaj0dEQAG6C9GjXXZHI4VjNMM0MGnHEXS4X1waavODYp3Mi2pd/O2qteGjorcjde3wXQ== norihiro",
+  "shell" : "/bin/bash" 
+}
+
